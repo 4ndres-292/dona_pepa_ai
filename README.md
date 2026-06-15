@@ -1,2 +1,27 @@
-# dona_pepa_ai
-Doña Pepa is a reasoning AI agent that helps users manage tasks, organize schedules, and improve productivity through intelligent planning and decision support. The system analyzes priorities, deadlines, and user commitments to generate personalized recommendations, optimize daily schedules, and provide proactive reminders.
+# Doña Pepa
+
+Your AI assistant that keeps you organized before the flip-flop comes out.
+
+## Overview
+
+Doña Pepa is an AI-powered reasoning agent designed to help users manage tasks, organize schedules, prioritize responsibilities, and improve productivity through intelligent planning and smart reminders.
+
+## Features
+
+- Intelligent task prioritization
+- Smart scheduling
+- Conversational AI interface
+- Calendar and event management
+- Personalized productivity recommendations
+
+## Technology Stack
+
+- Python
+- FastAPI
+- PostgreSQL
+- AI Agent Architecture
+- Microsoft IQ Integration
+
+## Team
+
+Agents League Hackathon 2026
